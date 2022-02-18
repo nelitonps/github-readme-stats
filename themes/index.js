@@ -355,6 +355,13 @@ const themes = {
     bg_color: "09131B",
     border_color: "0c1a25",
   },
+  neblina: {
+    title_color: "282a36",
+    icon_color: "FFE400",
+    text_color: "ffffff",
+    bg_color: "09131B",
+    border_color: "0c1a25",
+  },
 };
 
 module.exports = themes;
